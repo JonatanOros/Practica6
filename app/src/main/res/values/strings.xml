@@ -6,5 +6,6 @@
 
 
     <string name="getMeIn">GET ME IN!</string>
+    <string name="movies">Movies</string>
     <string name="title_activity_detalle_pelicula">detalle_pelicula</string>
 </resources>
